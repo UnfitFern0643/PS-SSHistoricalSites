@@ -1,0 +1,15 @@
+body{
+    background-color: #1ce1e8;
+}
+h2{
+    color: #7a4c1b;
+    margin: auto
+}
+h1{
+    color: #7a4c1b;
+}
+.carousel{
+  width: 80%;
+  height: 50%;
+  margin: 0 auto;
+}
